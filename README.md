@@ -1,2 +1,2 @@
-# burgerleten.be
+# burgerlente.be
 Website
